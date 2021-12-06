@@ -30,3 +30,15 @@ s.no|Names|phn no
 1|jessy|975890
 2|pinky|679845
 3|yaachi|939236
+
+:EMOJIECODE:
+S.NO|NAME|EMOJIE
+----|----|------
+1|harshi|:hugs:
+2|rishi|:zipper_mouth_face:
+3|pinky|:blush:
+4|yaachi|:smiling_face_with_three_hearts:
+5|joel|:stuck_out_tongue_winking_eye:
+6|jessy|:smiling_face_with_tear:
+
+
